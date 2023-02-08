@@ -10,3 +10,4 @@ script 8 deletes a file in another dir
 script 9 deletes a dir
 script 10 changes dir to previous dir
 script 11 lists all files in multiple dir
+scripts 12 prints the type of a file
