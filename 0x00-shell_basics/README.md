@@ -15,3 +15,4 @@ script 13 creates a symbolic link
 script 14 copies html files from one dir to another
 script 15 moves all files starting with capital letters
 script 16 removes files ending with ~
+script 17 makes directories
