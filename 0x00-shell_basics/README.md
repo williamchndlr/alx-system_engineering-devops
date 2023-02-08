@@ -7,3 +7,4 @@ script 5 displays dir contents in long form, incl hidden, with numeric uid and g
 script 6 creates dir in /tmp/ dir
 script 7 moves file from one dir to another dir
 script 8 deletes a file in another dir
+script 9 deletes a dir
