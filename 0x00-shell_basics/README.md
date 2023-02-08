@@ -12,3 +12,4 @@ script 10 changes dir to previous dir
 script 11 lists all files in multiple dir
 scripts 12 prints the type of a file
 script 13 creates a symbolic link
+script 14 copies html files from one dir to another
