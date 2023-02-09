@@ -1,4 +1,0 @@
-script 0 changes the user
-script 1 prints effective user nameof current user
-script 2 prints all groups a user is part of
-script 3 changes file ownership to another user
