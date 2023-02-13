@@ -1,5 +1,2 @@
-testing
-testing
-testing
-testing123
-testing123
+#!/bin/bash
+read -p "enter some words" \n temp | sort |uniq
