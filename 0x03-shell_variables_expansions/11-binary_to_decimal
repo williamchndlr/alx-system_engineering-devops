@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(($BINARY#01110100011000010110101101))"
+echo $BINARY | bc
